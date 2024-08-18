@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import os
 import requests
 from flask import Flask, render_template, session, redirect, url_for, flash
@@ -105,3 +106,11 @@ def index():
 
 if __name__ == '__main__':
     app.run(debug=True)
+=======
+# A very simple Flask Hello World app for you to get started with...
+from flask import Flask
+app = Flask(__name__)
+@app.route('/')
+def hello_world():
+    return '<p>Hello from Flask!</p><table><tr><td><b>Aluno:</b></td><td>Francisco Emidio</td></tr><tr><td><b>Prontuário:</b></td><td>PT3021912</td></tr></table>'
+>>>>>>> ee4dc3955c220be2a39c357edc6d6f1582613e59
