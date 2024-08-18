@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# Avaliação contínua da Aula 060.C Bancos de dados
+# Avaliação contínua da Aula 070.e-mail
 # DSWA
 # DWSA
 =======
