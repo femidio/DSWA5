@@ -1,0 +1,4 @@
+Olá {{ user.username }},
+
+Bem-vindo ao Flask App!
+
